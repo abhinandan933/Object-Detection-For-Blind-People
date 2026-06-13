@@ -45,3 +45,12 @@ Mobile application deployment.
 Support for multiple languages.
 Enhanced object recognition accuracy.
 Integration with wearable devices.
+
+# Author
+
+Abhinandan M K
+M.Sc. Computer Science (2025)
+
+# License
+
+This project is developed for educational and accessibility purposes.
